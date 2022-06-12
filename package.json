@@ -1,0 +1,21 @@
+{
+  "name": "testjoivalidation",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@hapi/hapi": "^20.2.2",
+    "@hapi/inert": "^6.0.5",
+    "@hapi/vision": "^6.1.0",
+    "handlebars": "^4.7.7",
+    "joi": "^17.6.0",
+    "mongodb": "^4.7.0",
+    "mongoose": "^6.3.6",
+    "uuid": "^8.3.2"
+  }
+}
